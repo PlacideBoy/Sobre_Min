@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sobre Min</string>
+    <string name="name">Jorge Lucas</string>
+    <string name="cd_star_image">star_image</string>
+    <string name="bio">Ola, meu nome é Jorge Lucas.
+    \n\nEu adoro jogos e arte.
+    \n\nPrincipalmente aqueles que fogem do estilo padrão da industria atual, tipo jogos indies e jogos antigos.
+    \n\nTambém gosto muito de música, adoro música instrumental e blues, ja até toquei guitarra, mas faz um bom tempo que isso aconteceu.
+    \n\nGosto de fotografia, cinema e séries, acompanho algumas e ja vi várias.
+    \n\nO quê mais vejo hoje em dia são séries animadas e algumas produções americanas e asiáticas.
+    \n\n\nQuer me perguntar algo mais?\n\n\n</string>
+    <string name="qual_o_seu_apelido">Qual é o seu apelido?</string>
+    <string name="finalizar">Finalizar</string>
+
+
+</resources>
